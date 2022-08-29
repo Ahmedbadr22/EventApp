@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Event App</string>
+    <string name="webClientId">818807726330-3ftcgukm0boqv35322v7udusurv2e0fj.apps.googleusercontent.com</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_fragment">List Fragment</string>
+    <string name="add_event_fragment">Add Event Fragment</string>
+    <string name="add_event">add event</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="instructor_name">Instructor Name</string>
+    <string name="add">Add</string>
+    <string name="back_to_list">Back To List</string>
+    <string name="_22_10_2022">22 / 10 / 2022</string>
+    <string name="speaker_ahmed_badr">Speaker : Ahmed Badr</string>
+    <string name="_0_item_found">0 Item Found</string>
+    <string name="logout">Logout</string>
+</resources>
